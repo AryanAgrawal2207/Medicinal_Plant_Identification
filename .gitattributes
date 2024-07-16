@@ -1,2 +1,1 @@
-*.psd filter=lfs diff=lfs merge=lfs -text
 medicinal_plants_image_detection/* filter=lfs diff=lfs merge=lfs -text
