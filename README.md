@@ -1,1 +1,0 @@
-# Medicinal_Plant_Identification
